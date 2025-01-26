@@ -50,17 +50,17 @@
   ],
   "navigation": [
     {
+      "group": "Sample Section",
+      "pages": [
+        "SamplePage"
+      ]
+    },
+    {
       "group": "Get Started",
       "pages": [
         "introduction",
         "quickstart",
         "development"
-      ]
-    },
-    {
-      "group": "Sample Section",
-      "pages": [
-        "SamplePage"
       ]
     },
     {
