@@ -58,6 +58,12 @@
       ]
     },
     {
+      "group": "Sample Section",
+      "pages": [
+        "SamplePage"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
