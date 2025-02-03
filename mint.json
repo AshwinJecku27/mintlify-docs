@@ -56,11 +56,16 @@
       ]
     },
     {
+      "group": "Demo Section",
+      "pages": [
+        "demo"
+      ]
+    },
+    {
       "group": "Get Started",
       "pages": [
         "introduction",
         "quickstart",
-        "demo",
         "development"
       ]
     },
