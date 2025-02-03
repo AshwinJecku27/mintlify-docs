@@ -60,6 +60,7 @@
       "pages": [
         "introduction",
         "quickstart",
+        "demo",
         "development"
       ]
     },
